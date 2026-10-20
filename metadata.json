@@ -1,0 +1,6 @@
+{
+  "name": "Ruang Fokus — Web Produktivitas Sederhana",
+  "description": "Aplikasi web sederhana dan tenang untuk mencatat tugas harian, pengatur waktu fokus, dan catatan cepat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
